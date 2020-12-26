@@ -1,3 +1,21 @@
+- установить node
+- npm init - инициализация проекта
+- npm install --save-dev webpack webpack-cli (https://webpack.js.org/guides/getting-started/)
+- npm i -D html-webpack-plugin (https://webpack.js.org/plugins/html-webpack-plugin/)
+- npm i -D copy-webpack-plugin (https://webpack.js.org/plugins/copy-webpack-plugin/)
+- npm i -D clean-webpack-plugin (https://www.npmjs.com/package/clean-webpack-plugin)
+- npm i -D mini-css-extract-plugin (https://webpack.js.org/plugins/mini-css-extract-plugin/)
+- npm i -D sass-loader sass (https://webpack.js.org/loaders/sass-loader/)
+- npm i -D css-loader (https://webpack.js.org/loaders/css-loader/)
+- npm i -D babel-loader @babel/core (https://babeljs.io/setup#installation)
+- npm i -D @babel/preset-env (https://babeljs.io/setup#installation)
+- npm i -D cross-env (https://www.npmjs.com/package/cross-env)
+- npm i -D webpack-dev-server (https://github.com/webpack/webpack-dev-server)
+- npm i -D eslint (https://www.npmjs.com/package/eslint)
+- npm i -D eslint-loader (https://www.npmjs.com/package/eslint-loader)
+- npm i -D babel-eslint (https://www.npmjs.com/package/babel-eslint)
+- npm i -D eslint-config-google (https://github.com/google/eslint-config-google)
+
 1. WebPack (import/exports)
 	- Babel
 	- Scss
@@ -20,7 +38,7 @@
 			3 цифра - отвечает за не большие изменения (цвет, расп-е кнопки)
 
 	- Создать файл .gitignore
-
+	- установить git
 3. GitHub
 	- Создаем новый репозиторий
 
