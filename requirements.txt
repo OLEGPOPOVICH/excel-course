@@ -1,0 +1,39 @@
+1. WebPack (import/exports)
+	- Babel
+	- Scss
+	- EsLint
+	- 2 Modes
+		- Dev
+			- Dev Server
+			- SourceMaps
+			- EsLint
+			- Not Minified JS & CSS
+		- Prod
+			- Minified Code
+2. Git
+	Production
+		1.0.0
+	Development
+		1.0.2 
+			1 цифра - новая версия ( кординальное изменения)
+			2 цифра - серьезные изменения (длобаление чего то нового)
+			3 цифра - отвечает за не большие изменения (цвет, расп-е кнопки)
+
+	- Создать файл .gitignore
+
+3. GitHub
+	- Создаем новый репозиторий
+
+	…or create a new repository on the command line
+	echo "# excel-course" >> README.md
+	git init
+	git add README.md
+	git commit -m "first commit"
+	git branch -M main
+	git remote add origin https://github.com/OLEGPOPOVICH/excel-course.git
+	git push -u origin main
+					
+	…or push an existing repository from the command line
+	git remote add origin https://github.com/OLEGPOPOVICH/excel-course.git
+	git branch -M main
+	git push -u origin main
