@@ -15,6 +15,7 @@
 - npm i -D eslint-loader (https://www.npmjs.com/package/eslint-loader)
 - npm i -D babel-eslint (https://www.npmjs.com/package/babel-eslint)
 - npm i -D eslint-config-google (https://github.com/google/eslint-config-google)
+- npm install normalize.css (https://necolas.github.io/normalize.css/)
 
 1. WebPack (import/exports)
 	- Babel
