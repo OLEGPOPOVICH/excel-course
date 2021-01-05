@@ -16,6 +16,7 @@
 - npm i -D babel-eslint (https://www.npmjs.com/package/babel-eslint)
 - npm i -D eslint-config-google (https://github.com/google/eslint-config-google)
 - npm install normalize.css (https://necolas.github.io/normalize.css/)
+- npm i -D @babel/plugin-proposal-class-properties (https://babeljs.io/docs/en/babel-plugin-proposal-class-properties)
 
 1. WebPack (import/exports)
 	- Babel
