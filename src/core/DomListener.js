@@ -7,7 +7,6 @@ export class DomListener {
     }
     this.$root = $root;
     this.listeners = listeners;
-    console.log(this)
   }
 
   initDOMListeners() {
