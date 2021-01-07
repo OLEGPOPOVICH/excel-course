@@ -2,10 +2,10 @@ import {$} from '@core/dom';
 
 export function resizeHandler($root, event) {
   const $resizer = $(event.target);
-  const $parent = $resizer.closest('[data-type="resizable"]')
+  const $parent = $resizer.closest('[data-type="resizable"]');
   const coords = $parent.getCoords();
   const type = $resizer.data.resize;
-  const sideProp = type === 'col' ? 'bottom' : 'right'
+  const sideProp = type === 'col' ? 'bottom' : 'right';
   let value;
 
   $resizer.css({
